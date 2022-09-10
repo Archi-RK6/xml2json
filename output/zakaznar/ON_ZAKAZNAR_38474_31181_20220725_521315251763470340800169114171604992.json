@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_38474_31181_20220725_521315251763470340800169114171604992",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "436",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Демьяненко",
+                            "Name": "Нацагдорж",
+                            "SecondName": "Бедросович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8952359953",
+                                "8981957837",
+                                "8983957353"
+                            ],
+                            "Email": [
+                                "8952359953@gmail.com",
+                                "8981957837@yandex.ru",
+                                "8983957353@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Fiat, 130",
+                        "CodeCargNew": "0290",
+                        "CargoCond": "Неудовлетворительное",
+                        "WayPack": "Металл",
+                        "ContType": "00",
+                        "Density": "1551",
+                        "PossDistr": "0",
+                        "Volume": "1",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "1",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "7257033552501353481765347"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "1551",
+                            "MassBrutVal": "1586",
+                            "NumPall": "4"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000006768361",
+                            "CodeOKV": "704",
+                            "NameOKV": "Донг"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "5989700",
+                        "CodeOKV": "704",
+                        "NameOKV": "Донг"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "105828395427548981",
+                        "DateDok": "16.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "3954351867"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "827868896740099359",
+                        "DateDok": "16.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "9627461650"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "473092511227022353",
+                        "DateDok": "18.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "2638912499"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "PUCH, Pinzgauer",
+                        "LoadCap": "2163",
+                        "Capacity": "24"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "07.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Чадан, Тыва - Петухово, Курганская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "51.28333000000000",
+                            "Longitude": "91.56667000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "536205",
+                            "CodeDistr": "69",
+                            "Area": "Ленинский",
+                            "City": "Чадан",
+                            "Street": "Ленина",
+                            "Home": "77",
+                            "Building": "42"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Сергеичев",
+                    "Name": "Авксентий",
+                    "SecondName": "Станиславович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "23.07.2022",
+                    "IDNDTrust": "14458145",
+                    "IdentDov": "14458145"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARPOD_14380_89044_20220725_956906569437234015804353476722425856",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110352",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "IdDatInfFrei": {
+                "IdDatFileInfFrei": "ON_ZAKAZNARSOG_14380_89044_20220725_956906569437234015804353476722425856",
+                "DatFileInfFrei": "25.07.2022",
+                "TFileInfFrei": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "DatTDelVeh": "06.08.2022T22:36:49+05:00",
+                "AplExTTypeElemTC": "0",
+                "MarkChart": {
+                    "DatTMark": "06.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemO": "0",
+                    "CurcMark": "Так вышло",
+                    "DetAct": {
+                        "IdDoc": "160567900579597133",
+                        "IdDetlsDoc": {
+                            "INNI": "531792857615"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Самосадов",
+                    "Name": "Акоп",
+                    "SecondName": "Борисович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "16.07.2022",
+                    "IDNDTrust": "25875837",
+                    "IdentDov": "25875837"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_14380_89044_20220725_956906569437234015804353476722425856",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "412",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Водорезов",
+                            "Name": "Логгин",
+                            "SecondName": "Аркадьевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8968560795",
+                                "8909166607",
+                                "8948983565"
+                            ],
+                            "Email": [
+                                "8968560795@gmail.com",
+                                "8909166607@yandex.ru",
+                                "8948983565@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Dodge, Caliber",
+                        "CodeCargNew": "2604",
+                        "CargoCond": "Хорошее",
+                        "WayPack": "Полиэтилен",
+                        "ContType": "00",
+                        "Density": "1581",
+                        "PossDistr": "0",
+                        "Volume": "2",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "2",
+                            "WidMean": "1"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "9281319983096460800946077"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "3162",
+                            "MassBrutVal": "3283",
+                            "NumPall": "1"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000013265522",
+                            "CodeOKV": "012",
+                            "NameOKV": "Алжирский динар"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "11739400",
+                        "CodeOKV": "012",
+                        "NameOKV": "Алжирский динар"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "622916622625410562",
+                        "DateDok": "16.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "5057735577"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "1398258949401466",
+                        "DateDok": "18.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "8507546520"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "728326066282836304",
+                        "DateDok": "17.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "7196913963"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Mitsubishi, Jeep J",
+                        "LoadCap": "5168",
+                        "Capacity": "56"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "06.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Первоуральск, Свердловская область - Весьегонск, Тверская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "56.91667000000000",
+                            "Longitude": "59.95000000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "415136",
+                            "CodeDistr": "27",
+                            "Area": "Ленинский",
+                            "City": "Первоуральск",
+                            "Street": "Ленина",
+                            "Home": "23",
+                            "Building": "18"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Самосадов",
+                    "Name": "Акоп",
+                    "SecondName": "Борисович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "16.07.2022",
+                    "IDNDTrust": "25875837",
+                    "IdentDov": "25875837"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_41624_53745_20220725_754157843742918219242705464921686016",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "663",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Газизов",
+                            "Name": "Люцифер",
+                            "SecondName": "Иванович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8970679488",
+                                "8917998112",
+                                "8941135698"
+                            ],
+                            "Email": [
+                                "8970679488@gmail.com",
+                                "8917998112@yandex.ru",
+                                "8941135698@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Aston Martin, Bulldog",
+                        "CodeCargNew": "1821",
+                        "CargoCond": "Удовлетворительное",
+                        "WayPack": "Дерево",
+                        "ContType": "00",
+                        "Density": "1924",
+                        "PossDistr": "0",
+                        "Volume": "2",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "2",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "1854982826472595089391765"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "3848",
+                            "MassBrutVal": "3929",
+                            "NumPall": "1"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000012459267",
+                            "CodeOKV": "072",
+                            "NameOKV": "Пула"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "11025900",
+                        "CodeOKV": "072",
+                        "NameOKV": "Пула"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "30020436122802224",
+                        "DateDok": "24.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "4265205137"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "678130707355867873",
+                        "DateDok": "18.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "8618508076"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "89491428886977454",
+                        "DateDok": "21.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "4955543837"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Ford, Model A",
+                        "LoadCap": "5063",
+                        "Capacity": "29"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "11.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Екатеринбург, Свердловская область - Аксай, Ростовская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "56.83333000000000",
+                            "Longitude": "60.58333000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "737212",
+                            "CodeDistr": "21",
+                            "Area": "Ленинский",
+                            "City": "Екатеринбург",
+                            "Street": "Ленина",
+                            "Home": "79",
+                            "Building": "27"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Клячкин",
+                    "Name": "Иероним",
+                    "SecondName": "Валентинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "78874152",
+                    "IdentDov": "78874152"
+                }
+            }
+        }
+    }
+}

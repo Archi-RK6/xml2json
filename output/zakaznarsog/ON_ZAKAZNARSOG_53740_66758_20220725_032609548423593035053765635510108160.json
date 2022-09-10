@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_53740_66758_20220725_032609548423593035053765635510108160",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_53740_66758_20220725_032609548423593035053765635510108160",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Глубоковсих",
+                            "Name": "Матвей",
+                            "SecondName": "Анатольевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8981109123",
+                                "8912662619",
+                                "8991091848"
+                            ],
+                            "Email": [
+                                "8981109123@gmail.com",
+                                "8912662619@yandex.ru",
+                                "8991091848@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "13.08.2022",
+                    "PosPersOrd": "Наблюдающий",
+                    "NSS": {
+                        "Surname": "Чапкин",
+                        "Name": "Зигмунд",
+                        "SecondName": "Валентинович"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Opel, Frontera",
+                        "LoadCap": "2421",
+                        "Capacity": "31"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "127006",
+                        "SerVY": "9344",
+                        "DatExpDrLicense": "21.05.2009",
+                        "DatFinDrLicense": "19.05.2019",
+                        "INNI": "149648717034",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8915435960",
+                                "8913182246",
+                                "8966208733"
+                            ],
+                            "Email": [
+                                "8915435960@gmail.com",
+                                "8913182246@yandex.ru",
+                                "8966208733@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Васюков",
+                            "Name": "Софрон",
+                            "SecondName": "Анатольевич"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "96336095953559093248",
+                            "DetTimePL": "14.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "705708",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Невельск, Сахалинская область - Аша, Челябинская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "403874888.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Чудихин",
+                    "Name": "Вольфганг",
+                    "SecondName": "Северинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "20298356",
+                    "IdentDov": "20298356"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_17510_54063_20220725_875045054365181613147895201836040192",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "342",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Непряхин",
+                            "Name": "Олаф",
+                            "SecondName": "Игоревич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8902102239",
+                                "8976825049",
+                                "8908219612"
+                            ],
+                            "Email": [
+                                "8902102239@gmail.com",
+                                "8976825049@yandex.ru",
+                                "8908219612@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Toyota, Allion",
+                        "CodeCargNew": "0914",
+                        "CargoCond": "Удовлетворительное",
+                        "WayPack": "Дерево",
+                        "ContType": "00",
+                        "Density": "547",
+                        "PossDistr": "0",
+                        "Volume": "2",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "2",
+                            "WidMean": "1"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "6841216687294316529169635"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "1094",
+                            "MassBrutVal": "1164",
+                            "NumPall": "4"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000013601584",
+                            "CodeOKV": "170",
+                            "NameOKV": "Колумбийское песо"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "12036800",
+                        "CodeOKV": "170",
+                        "NameOKV": "Колумбийское песо"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "98653998671004904",
+                        "DateDok": "21.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "8812025871"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "432211109478380185",
+                        "DateDok": "19.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "1900672989"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "961924187087191249",
+                        "DateDok": "19.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "3093391548"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Vauxhall, Tigra",
+                        "LoadCap": "1793",
+                        "Capacity": "44"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "04.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Ядрин, Чувашия - Старица, Тверская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "55.95000000000000",
+                            "Longitude": "46.20000000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "702947",
+                            "CodeDistr": "03",
+                            "Area": "Ленинский",
+                            "City": "Ядрин",
+                            "Street": "Ленина",
+                            "Home": "8",
+                            "Building": "44"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Сусайкин",
+                    "Name": "Ференц",
+                    "SecondName": "Матвеевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "20.07.2022",
+                    "IDNDTrust": "39401524",
+                    "IdentDov": "39401524"
+                }
+            }
+        }
+    }
+}

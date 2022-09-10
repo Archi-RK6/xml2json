@@ -1,0 +1,41 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARVOZ_38474_31181_20220725_521315251763470340800169114171604992",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110353",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNARPOD_38474_31181_20220725_521315251763470340800169114171604992",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DatTimFinUseVeh": "15.09.2022T22:36:49+05:00",
+                "AplExTypeElem": "0",
+                "DetChangeFeri": {
+                    "ChDatTTrnsf": "15.09.2022T22:36:49+05:00",
+                    "AplExTTypeElemP": "0",
+                    "ChTTrnsf": "Произошли немного"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Сергеичев",
+                    "Name": "Авксентий",
+                    "SecondName": "Станиславович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "23.07.2022",
+                    "IDNDTrust": "14458145",
+                    "IdentDov": "14458145"
+                }
+            }
+        }
+    }
+}

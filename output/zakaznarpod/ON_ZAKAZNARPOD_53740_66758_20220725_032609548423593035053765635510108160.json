@@ -1,0 +1,47 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARPOD_53740_66758_20220725_032609548423593035053765635510108160",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110352",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "IdDatInfFrei": {
+                "IdDatFileInfFrei": "ON_ZAKAZNARSOG_53740_66758_20220725_032609548423593035053765635510108160",
+                "DatFileInfFrei": "25.07.2022",
+                "TFileInfFrei": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "DatTDelVeh": "04.08.2022T22:36:49+05:00",
+                "AplExTTypeElemTC": "0",
+                "MarkChart": {
+                    "DatTMark": "04.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemO": "0",
+                    "CurcMark": "Так вышло",
+                    "DetAct": {
+                        "IdDoc": "37806126222501396",
+                        "IdDetlsDoc": {
+                            "INNI": "761591847522"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Чудихин",
+                    "Name": "Вольфганг",
+                    "SecondName": "Северинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "20298356",
+                    "IdentDov": "20298356"
+                }
+            }
+        }
+    }
+}

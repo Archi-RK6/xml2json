@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_57623_74510_20220725_513587404480405189480089097013821440",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "333",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Стрелюк",
+                            "Name": "Маний",
+                            "SecondName": "Тимофеевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8932115910",
+                                "8900117624",
+                                "8902859974"
+                            ],
+                            "Email": [
+                                "8932115910@gmail.com",
+                                "8900117624@yandex.ru",
+                                "8902859974@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Acura, CL",
+                        "CodeCargNew": "0436",
+                        "CargoCond": "Хорошее",
+                        "WayPack": "Полиэтилен",
+                        "ContType": "00",
+                        "Density": "1224",
+                        "PossDistr": "0",
+                        "Volume": "1",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "1",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "3118632131608987567331456"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "1224",
+                            "MassBrutVal": "1250",
+                            "NumPall": "1"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000014448067",
+                            "CodeOKV": "124",
+                            "NameOKV": "Канадский доллар"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "12785900",
+                        "CodeOKV": "124",
+                        "NameOKV": "Канадский доллар"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "833434983307469725",
+                        "DateDok": "20.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "6568789726"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "941730005436073804",
+                        "DateDok": "19.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "2687845574"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "973959553138251423",
+                        "DateDok": "16.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "2818367083"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Mercury, Tracer",
+                        "LoadCap": "2791",
+                        "Capacity": "82"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "12.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Заозёрск, Мурманская область - Омск, Омская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "69.40000000000001",
+                            "Longitude": "32.45000000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "751470",
+                            "CodeDistr": "45",
+                            "Area": "Ленинский",
+                            "City": "Заозёрск",
+                            "Street": "Ленина",
+                            "Home": "96",
+                            "Building": "45"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Макейкин",
+                    "Name": "Ибрагим",
+                    "SecondName": "Викторович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "18.07.2022",
+                    "IDNDTrust": "97892156",
+                    "IdentDov": "97892156"
+                }
+            }
+        }
+    }
+}

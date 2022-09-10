@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_14380_89044_20220725_956906569437234015804353476722425856",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_14380_89044_20220725_956906569437234015804353476722425856",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Князев",
+                            "Name": "Христофор",
+                            "SecondName": "Тимофеевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8972244665",
+                                "8930693194",
+                                "8962583327"
+                            ],
+                            "Email": [
+                                "8972244665@gmail.com",
+                                "8930693194@yandex.ru",
+                                "8962583327@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "15.08.2022",
+                    "PosPersOrd": "Наблюдающий",
+                    "NSS": {
+                        "Surname": "Гребнчук",
+                        "Name": "Симеон",
+                        "SecondName": "Иванович"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Mitsubishi, Jeep J",
+                        "LoadCap": "5168",
+                        "Capacity": "56"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "989741",
+                        "SerVY": "3394",
+                        "DatExpDrLicense": "31.07.2005",
+                        "DatFinDrLicense": "29.07.2015",
+                        "INNI": "795529868581",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8968560795",
+                                "8909166607",
+                                "8948983565"
+                            ],
+                            "Email": [
+                                "8968560795@gmail.com",
+                                "8909166607@yandex.ru",
+                                "8948983565@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Василеха",
+                            "Name": "Арам",
+                            "SecondName": "Яковлевич"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "44068158585748389888",
+                            "DetTimePL": "22.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "513953",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Первоуральск, Свердловская область - Весьегонск, Тверская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "699546719.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Самосадов",
+                    "Name": "Акоп",
+                    "SecondName": "Борисович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "16.07.2022",
+                    "IDNDTrust": "25875837",
+                    "IdentDov": "25875837"
+                }
+            }
+        }
+    }
+}

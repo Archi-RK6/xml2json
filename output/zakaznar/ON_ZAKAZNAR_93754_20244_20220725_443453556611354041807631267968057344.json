@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_93754_20244_20220725_443453556611354041807631267968057344",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "417",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Певец",
+                            "Name": "Иштван",
+                            "SecondName": "Богданович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8962693823",
+                                "8962101932",
+                                "8970698692"
+                            ],
+                            "Email": [
+                                "8962693823@gmail.com",
+                                "8962101932@yandex.ru",
+                                "8970698692@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "BMW, i7",
+                        "CodeCargNew": "1780",
+                        "CargoCond": "Хорошее",
+                        "WayPack": "Дерево",
+                        "ContType": "00",
+                        "Density": "1371",
+                        "PossDistr": "0",
+                        "Volume": "2",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "2",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "2233124028869134506181338"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "2742",
+                            "MassBrutVal": "2842",
+                            "NumPall": "4"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000010097793",
+                            "CodeOKV": "702",
+                            "NameOKV": "Сингапурский доллар"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "8936100",
+                        "CodeOKV": "702",
+                        "NameOKV": "Сингапурский доллар"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "274278935871692393",
+                        "DateDok": "20.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "7321532081"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "616616403778818507",
+                        "DateDok": "17.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "1387600566"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "410255442938572810",
+                        "DateDok": "24.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "7640365675"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Volkswagen, Amarok",
+                        "LoadCap": "2933",
+                        "Capacity": "77"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "13.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Приморско-Ахтарск, Краснодарский край - Унеча, Брянская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "46.05000000000000",
+                            "Longitude": "38.18333000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "787086",
+                            "CodeDistr": "90",
+                            "Area": "Ленинский",
+                            "City": "Приморско-Ахтарск",
+                            "Street": "Ленина",
+                            "Home": "12",
+                            "Building": "48"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Соснихин",
+                    "Name": "Питирим",
+                    "SecondName": "Николаевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "85625526",
+                    "IdentDov": "85625526"
+                }
+            }
+        }
+    }
+}

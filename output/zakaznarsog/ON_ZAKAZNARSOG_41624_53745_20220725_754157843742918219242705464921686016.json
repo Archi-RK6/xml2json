@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_41624_53745_20220725_754157843742918219242705464921686016",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_41624_53745_20220725_754157843742918219242705464921686016",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Пудашев",
+                            "Name": "Аннерс",
+                            "SecondName": "Юрьевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8976624584",
+                                "8961694573",
+                                "8968009476"
+                            ],
+                            "Email": [
+                                "8976624584@gmail.com",
+                                "8961694573@yandex.ru",
+                                "8968009476@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "14.08.2022",
+                    "PosPersOrd": "Смотрящий",
+                    "NSS": {
+                        "Surname": "Паливода",
+                        "Name": "Франческо",
+                        "SecondName": "Анатольевич"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Ford, Model A",
+                        "LoadCap": "5063",
+                        "Capacity": "29"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "000535",
+                        "SerVY": "0497",
+                        "DatExpDrLicense": "26.07.2036",
+                        "DatFinDrLicense": "24.07.2046",
+                        "INNI": "921526170296",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8970679488",
+                                "8917998112",
+                                "8941135698"
+                            ],
+                            "Email": [
+                                "8970679488@gmail.com",
+                                "8917998112@yandex.ru",
+                                "8941135698@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Табачников",
+                            "Name": "Ювеналий",
+                            "SecondName": "Витальевич"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "33613832732929093632",
+                            "DetTimePL": "25.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "106592",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Екатеринбург, Свердловская область - Аксай, Ростовская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "107816694.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Клячкин",
+                    "Name": "Иероним",
+                    "SecondName": "Валентинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "78874152",
+                    "IdentDov": "78874152"
+                }
+            }
+        }
+    }
+}

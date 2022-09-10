@@ -1,0 +1,47 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARPOD_41624_53745_20220725_754157843742918219242705464921686016",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110352",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "IdDatInfFrei": {
+                "IdDatFileInfFrei": "ON_ZAKAZNARSOG_41624_53745_20220725_754157843742918219242705464921686016",
+                "DatFileInfFrei": "25.07.2022",
+                "TFileInfFrei": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "DatTDelVeh": "11.08.2022T22:36:49+05:00",
+                "AplExTTypeElemTC": "0",
+                "MarkChart": {
+                    "DatTMark": "11.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemO": "0",
+                    "CurcMark": "Так вышло",
+                    "DetAct": {
+                        "IdDoc": "382335519225980976",
+                        "IdDetlsDoc": {
+                            "INNI": "483010989791"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Клячкин",
+                    "Name": "Иероним",
+                    "SecondName": "Валентинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "78874152",
+                    "IdentDov": "78874152"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_83889_53127_20220725_451323409269668649610688610026127360",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "134",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Селевин",
+                            "Name": "Боян",
+                            "SecondName": "Кириллович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8929189045",
+                                "8942159878",
+                                "8956149967"
+                            ],
+                            "Email": [
+                                "8929189045@gmail.com",
+                                "8942159878@yandex.ru",
+                                "8956149967@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Daihatsu, Hijet Caddie",
+                        "CodeCargNew": "0361",
+                        "CargoCond": "Хорошее",
+                        "WayPack": "Металл",
+                        "ContType": "00",
+                        "Density": "1864",
+                        "PossDistr": "0",
+                        "Volume": "2",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "2",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "3193626438743630074712836"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "3728",
+                            "MassBrutVal": "3766",
+                            "NumPall": "2"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000001280290",
+                            "CodeOKV": "454",
+                            "NameOKV": "Малавийская квача"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "1133000",
+                        "CodeOKV": "454",
+                        "NameOKV": "Малавийская квача"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "559888342310638925",
+                        "DateDok": "16.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "3205193447"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "383253029226037527",
+                        "DateDok": "24.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "3645514164"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "306190102092506569",
+                        "DateDok": "23.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "1655979747"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Toyota, Caldina",
+                        "LoadCap": "4234",
+                        "Capacity": "13"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "11.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Радужный, Ханты-Мансийский АО - Зеленодольск, Татарстан"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "62.13333000000000",
+                            "Longitude": "77.46666999999999"
+                        },
+                        "AdrRF": {
+                            "Index": "232594",
+                            "CodeDistr": "36",
+                            "Area": "Ленинский",
+                            "City": "Радужный",
+                            "Street": "Ленина",
+                            "Home": "51",
+                            "Building": "24"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Темнов",
+                    "Name": "Умар",
+                    "SecondName": "Алексеевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "20.07.2022",
+                    "IDNDTrust": "25115837",
+                    "IdentDov": "25115837"
+                }
+            }
+        }
+    }
+}

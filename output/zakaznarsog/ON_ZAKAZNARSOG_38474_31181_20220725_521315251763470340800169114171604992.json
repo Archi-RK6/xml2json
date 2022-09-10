@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_38474_31181_20220725_521315251763470340800169114171604992",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_38474_31181_20220725_521315251763470340800169114171604992",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Новодережкин",
+                            "Name": "Венцеслав",
+                            "SecondName": "Евгеньевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8914543180",
+                                "8904710644",
+                                "8905492953"
+                            ],
+                            "Email": [
+                                "8914543180@gmail.com",
+                                "8904710644@yandex.ru",
+                                "8905492953@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "14.08.2022",
+                    "PosPersOrd": "Надзиратель",
+                    "NSS": {
+                        "Surname": "Саранцев",
+                        "Name": "Гордей",
+                        "SecondName": "Юрьевич"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "PUCH, Pinzgauer",
+                        "LoadCap": "2163",
+                        "Capacity": "24"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "170883",
+                        "SerVY": "4465",
+                        "DatExpDrLicense": "08.08.2037",
+                        "DatFinDrLicense": "06.08.2047",
+                        "INNI": "341872891986",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8952359953",
+                                "8981957837",
+                                "8983957353"
+                            ],
+                            "Email": [
+                                "8952359953@gmail.com",
+                                "8981957837@yandex.ru",
+                                "8983957353@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Степухин",
+                            "Name": "Прокл",
+                            "SecondName": "Эдуардович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "74890323436101500928",
+                            "DetTimePL": "24.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "834227",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Чадан, Тыва - Петухово, Курганская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "44336108.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Сергеичев",
+                    "Name": "Авксентий",
+                    "SecondName": "Станиславович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "23.07.2022",
+                    "IDNDTrust": "14458145",
+                    "IdentDov": "14458145"
+                }
+            }
+        }
+    }
+}

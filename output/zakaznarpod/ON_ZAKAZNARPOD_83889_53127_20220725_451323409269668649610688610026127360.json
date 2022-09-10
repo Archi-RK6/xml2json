@@ -1,0 +1,47 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARPOD_83889_53127_20220725_451323409269668649610688610026127360",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110352",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "IdDatInfFrei": {
+                "IdDatFileInfFrei": "ON_ZAKAZNARSOG_83889_53127_20220725_451323409269668649610688610026127360",
+                "DatFileInfFrei": "25.07.2022",
+                "TFileInfFrei": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "DatTDelVeh": "11.08.2022T22:36:49+05:00",
+                "AplExTTypeElemTC": "0",
+                "MarkChart": {
+                    "DatTMark": "11.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemO": "0",
+                    "CurcMark": "Так вышло",
+                    "DetAct": {
+                        "IdDoc": "711786031460868025",
+                        "IdDetlsDoc": {
+                            "INNI": "278036135538"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Темнов",
+                    "Name": "Умар",
+                    "SecondName": "Алексеевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "20.07.2022",
+                    "IDNDTrust": "25115837",
+                    "IdentDov": "25115837"
+                }
+            }
+        }
+    }
+}

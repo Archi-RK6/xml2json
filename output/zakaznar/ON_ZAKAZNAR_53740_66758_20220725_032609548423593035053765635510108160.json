@@ -1,0 +1,154 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_53740_66758_20220725_032609548423593035053765635510108160",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "412",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Комиссаров",
+                            "Name": "Аксель",
+                            "SecondName": "Эдуардович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8915435960",
+                                "8913182246",
+                                "8966208733"
+                            ],
+                            "Email": [
+                                "8915435960@gmail.com",
+                                "8913182246@yandex.ru",
+                                "8966208733@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Infiniti, I",
+                        "CodeCargNew": "1596",
+                        "CargoCond": "Хорошее",
+                        "WayPack": "Дерево",
+                        "ContType": "00",
+                        "Density": "1613",
+                        "PossDistr": "0",
+                        "Volume": "1",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "1",
+                            "WidMean": "1"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "8458816804711365870776086"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "1613",
+                            "MassBrutVal": "1635",
+                            "NumPall": "1"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000014426823",
+                            "CodeOKV": "973",
+                            "NameOKV": "Кванза"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "12767100",
+                        "CodeOKV": "973",
+                        "NameOKV": "Кванза"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "825193890445855528",
+                        "DateDok": "24.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "4469195305"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "194171951386733681",
+                        "DateDok": "19.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "9218934658"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "821856618666838640",
+                        "DateDok": "21.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "9151441929"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Opel, Frontera",
+                        "LoadCap": "2421",
+                        "Capacity": "31"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "04.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Невельск, Сахалинская область - Аша, Челябинская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "46.65000000000000",
+                            "Longitude": "141.86667000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "338360",
+                            "CodeDistr": "04",
+                            "Area": "Ленинский",
+                            "City": "Невельск",
+                            "Street": "Ленина",
+                            "Home": "69",
+                            "Building": "28"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Чудихин",
+                    "Name": "Вольфганг",
+                    "SecondName": "Северинович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "20298356",
+                    "IdentDov": "20298356"
+                }
+            }
+        }
+    }
+}

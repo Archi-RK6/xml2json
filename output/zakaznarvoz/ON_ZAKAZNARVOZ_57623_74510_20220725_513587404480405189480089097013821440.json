@@ -1,0 +1,41 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARVOZ_57623_74510_20220725_513587404480405189480089097013821440",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110353",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNARPOD_57623_74510_20220725_513587404480405189480089097013821440",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DatTimFinUseVeh": "16.09.2022T22:36:49+05:00",
+                "AplExTypeElem": "0",
+                "DetChangeFeri": {
+                    "ChDatTTrnsf": "16.09.2022T22:36:49+05:00",
+                    "AplExTTypeElemP": "0",
+                    "ChTTrnsf": "Произошли немного"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Макейкин",
+                    "Name": "Ибрагим",
+                    "SecondName": "Викторович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "18.07.2022",
+                    "IDNDTrust": "97892156",
+                    "IdentDov": "97892156"
+                }
+            }
+        }
+    }
+}

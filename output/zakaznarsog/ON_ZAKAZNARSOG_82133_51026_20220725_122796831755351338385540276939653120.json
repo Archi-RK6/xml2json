@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_82133_51026_20220725_122796831755351338385540276939653120",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_82133_51026_20220725_122796831755351338385540276939653120",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Пузатов",
+                            "Name": "Ахилл",
+                            "SecondName": "Михайлович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8973723930",
+                                "8915992720",
+                                "8931207514"
+                            ],
+                            "Email": [
+                                "8973723930@gmail.com",
+                                "8915992720@yandex.ru",
+                                "8931207514@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "11.08.2022",
+                    "PosPersOrd": "Наблюдающий",
+                    "NSS": {
+                        "Surname": "Черноглазкин",
+                        "Name": "Кузьма",
+                        "SecondName": "Степанович"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Volkswagen, Sharan",
+                        "LoadCap": "3079",
+                        "Capacity": "94"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "711549",
+                        "SerVY": "1606",
+                        "DatExpDrLicense": "23.02.2032",
+                        "DatFinDrLicense": "20.02.2042",
+                        "INNI": "141039333863",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8900988790",
+                                "8982631395",
+                                "8911670195"
+                            ],
+                            "Email": [
+                                "8900988790@gmail.com",
+                                "8982631395@yandex.ru",
+                                "8911670195@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Плюснин",
+                            "Name": "Ждан",
+                            "SecondName": "Вячеславович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "60205224181676023808",
+                            "DetTimePL": "16.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "547073",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Мезень, Архангельская область - Коммунар, Ленинградская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "294102214.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Дебособров",
+                    "Name": "Кехлер",
+                    "SecondName": "Александрович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "37721624",
+                    "IdentDov": "37721624"
+                }
+            }
+        }
+    }
+}

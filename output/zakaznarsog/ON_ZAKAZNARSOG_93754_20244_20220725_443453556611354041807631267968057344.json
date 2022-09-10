@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_93754_20244_20220725_443453556611354041807631267968057344",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_93754_20244_20220725_443453556611354041807631267968057344",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Безлапатов",
+                            "Name": "Роберт",
+                            "SecondName": "Николаевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8977297355",
+                                "8988992002",
+                                "8968356052"
+                            ],
+                            "Email": [
+                                "8977297355@gmail.com",
+                                "8988992002@yandex.ru",
+                                "8968356052@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "22.08.2022",
+                    "PosPersOrd": "Смотрящий",
+                    "NSS": {
+                        "Surname": "Кузьменко",
+                        "Name": "Терри",
+                        "SecondName": "Робертович"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Volkswagen, Amarok",
+                        "LoadCap": "2933",
+                        "Capacity": "77"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "313253",
+                        "SerVY": "8054",
+                        "DatExpDrLicense": "01.07.2026",
+                        "DatFinDrLicense": "28.06.2036",
+                        "INNI": "356362191743",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8962693823",
+                                "8962101932",
+                                "8970698692"
+                            ],
+                            "Email": [
+                                "8962693823@gmail.com",
+                                "8962101932@yandex.ru",
+                                "8970698692@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Голованов",
+                            "Name": "Михей",
+                            "SecondName": "Исаакович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "71238457717847457792",
+                            "DetTimePL": "25.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "036050",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Приморско-Ахтарск, Краснодарский край - Унеча, Брянская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "158681263.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Соснихин",
+                    "Name": "Питирим",
+                    "SecondName": "Николаевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "22.07.2022",
+                    "IDNDTrust": "85625526",
+                    "IdentDov": "85625526"
+                }
+            }
+        }
+    }
+}

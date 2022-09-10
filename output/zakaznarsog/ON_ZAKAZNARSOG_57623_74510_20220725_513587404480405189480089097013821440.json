@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_57623_74510_20220725_513587404480405189480089097013821440",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_57623_74510_20220725_513587404480405189480089097013821440",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Аксенов",
+                            "Name": "Григорий",
+                            "SecondName": "Юрьевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8921012600",
+                                "8928823649",
+                                "8978599369"
+                            ],
+                            "Email": [
+                                "8921012600@gmail.com",
+                                "8928823649@yandex.ru",
+                                "8978599369@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "19.08.2022",
+                    "PosPersOrd": "Наблюдающий",
+                    "NSS": {
+                        "Surname": "Писков",
+                        "Name": "Иларий",
+                        "SecondName": "Палыч"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Mercury, Tracer",
+                        "LoadCap": "2791",
+                        "Capacity": "82"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "103988",
+                        "SerVY": "5912",
+                        "DatExpDrLicense": "20.03.2012",
+                        "DatFinDrLicense": "18.03.2022",
+                        "INNI": "367130235805",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8932115910",
+                                "8900117624",
+                                "8902859974"
+                            ],
+                            "Email": [
+                                "8932115910@gmail.com",
+                                "8900117624@yandex.ru",
+                                "8902859974@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Полковников",
+                            "Name": "Овадья",
+                            "SecondName": "Михайлович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "19881017726343237632",
+                            "DetTimePL": "23.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "859035",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Заозёрск, Мурманская область - Омск, Омская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "41639596.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Макейкин",
+                    "Name": "Ибрагим",
+                    "SecondName": "Викторович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "18.07.2022",
+                    "IDNDTrust": "97892156",
+                    "IdentDov": "97892156"
+                }
+            }
+        }
+    }
+}

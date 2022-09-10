@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_48916_38188_20220725_122838633461680095939651052882624512",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_48916_38188_20220725_122838633461680095939651052882624512",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Зарудин",
+                            "Name": "Амедей",
+                            "SecondName": "Владимирович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8904200179",
+                                "8920717414",
+                                "8971858022"
+                            ],
+                            "Email": [
+                                "8904200179@gmail.com",
+                                "8920717414@yandex.ru",
+                                "8971858022@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "11.08.2022",
+                    "PosPersOrd": "Надзиратель",
+                    "NSS": {
+                        "Surname": "Сайкин",
+                        "Name": "Луи",
+                        "SecondName": "Богданович"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "BAIC, A1",
+                        "LoadCap": "2243",
+                        "Capacity": "69"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "003605",
+                        "SerVY": "8682",
+                        "DatExpDrLicense": "25.07.2024",
+                        "DatFinDrLicense": "23.07.2034",
+                        "INNI": "899790714924",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8931168023",
+                                "8909766738",
+                                "8917647936"
+                            ],
+                            "Email": [
+                                "8931168023@gmail.com",
+                                "8909766738@yandex.ru",
+                                "8917647936@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Иоффа",
+                            "Name": "Евграф",
+                            "SecondName": "Владиславович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "54871131116817252352",
+                            "DetTimePL": "18.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "918282",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Спасск-Рязанский, Рязанская область - Ливны, Орловская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "491968394.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Осьминкин",
+                    "Name": "Септимий",
+                    "SecondName": "Максимович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "21.07.2022",
+                    "IDNDTrust": "94180853",
+                    "IdentDov": "94180853"
+                }
+            }
+        }
+    }
+}

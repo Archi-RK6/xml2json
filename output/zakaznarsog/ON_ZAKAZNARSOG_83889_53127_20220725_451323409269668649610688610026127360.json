@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_83889_53127_20220725_451323409269668649610688610026127360",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_83889_53127_20220725_451323409269668649610688610026127360",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Котов",
+                            "Name": "Меир",
+                            "SecondName": "Игоревич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8980015924",
+                                "8966330927",
+                                "8915646466"
+                            ],
+                            "Email": [
+                                "8980015924@gmail.com",
+                                "8966330927@yandex.ru",
+                                "8915646466@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "17.08.2022",
+                    "PosPersOrd": "Надзиратель",
+                    "NSS": {
+                        "Surname": "Жукевич",
+                        "Name": "Парфений",
+                        "SecondName": "Евгеньевич"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Toyota, Caldina",
+                        "LoadCap": "4234",
+                        "Capacity": "13"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "409342",
+                        "SerVY": "9942",
+                        "DatExpDrLicense": "28.07.2003",
+                        "DatFinDrLicense": "25.07.2013",
+                        "INNI": "397132460631",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8929189045",
+                                "8942159878",
+                                "8956149967"
+                            ],
+                            "Email": [
+                                "8929189045@gmail.com",
+                                "8942159878@yandex.ru",
+                                "8956149967@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Упиров",
+                            "Name": "Винцас",
+                            "SecondName": "Андреевич"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "35462092090510761984",
+                            "DetTimePL": "24.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "908003",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Радужный, Ханты-Мансийский АО - Зеленодольск, Татарстан"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "29192025.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Темнов",
+                    "Name": "Умар",
+                    "SecondName": "Алексеевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "20.07.2022",
+                    "IDNDTrust": "25115837",
+                    "IdentDov": "25115837"
+                }
+            }
+        }
+    }
+}

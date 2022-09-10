@@ -1,0 +1,116 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNARSOG_17510_54063_20220725_875045054365181613147895201836040192",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110351",
+            "DatInfFrei": "25.07.2022",
+            "TInfFrei": "22.36.49",
+            "IdDatInfChart": {
+                "IdDatFileInfChart": "ON_ZAKAZNAR_17510_54063_20220725_875045054365181613147895201836040192",
+                "DatFileInfChart": "25.07.2022",
+                "TFileInfChart": "22.36.49",
+                "ESign": "VkVSWSBTRUNSRVQgUEFTU1dPUkQ="
+            },
+            "ContOrdFrei": {
+                "Uid": "Без номера",
+                "DetFrei": {
+                    "FreiIP": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Просвирин",
+                            "Name": "Иларий",
+                            "SecondName": "Павлович"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8903376640",
+                                "8927305279",
+                                "8993292000"
+                            ],
+                            "Email": [
+                                "8903376640@gmail.com",
+                                "8927305279@yandex.ru",
+                                "8993292000@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetZNIsp": {
+                    "DatePrizOrd": "10.08.2022",
+                    "PosPersOrd": "Смотрящий",
+                    "NSS": {
+                        "Surname": "Лабудин",
+                        "Name": "Феофилакт",
+                        "SecondName": "Витальевич"
+                    }
+                },
+                "DetVech": {
+                    "Number": "1",
+                    "NumberOfArea": "o777oo777",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "Vauxhall, Tigra",
+                        "LoadCap": "1793",
+                        "Capacity": "44"
+                    },
+                    "DetDriver": {
+                        "IDNDL": "027903",
+                        "SerVY": "1786",
+                        "DatExpDrLicense": "23.06.2039",
+                        "DatFinDrLicense": "20.06.2049",
+                        "INNI": "242490807279",
+                        "WaysConn": {
+                            "Nmbr": [
+                                "8902102239",
+                                "8976825049",
+                                "8908219612"
+                            ],
+                            "Email": [
+                                "8902102239@gmail.com",
+                                "8976825049@yandex.ru",
+                                "8908219612@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        },
+                        "NSS": {
+                            "Surname": "Мельников",
+                            "Name": "Кальман",
+                            "SecondName": "Павлович"
+                        },
+                        "WaiList": {
+                            "NamePL": "Путевой лист",
+                            "NumberOfPL": "34949375498269093888",
+                            "DetTimePL": "16.08.2022"
+                        }
+                    }
+                },
+                "DetOtherCond": {
+                    "IdSP": "586686",
+                    "ModeWorkRest": "Очень строгий",
+                    "WayDetails": {
+                        "WayTxt": "Ядрин, Чувашия - Старица, Тверская область"
+                    }
+                },
+                "DetStepPay": {
+                    "PriceService": "980361275.00"
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Сусайкин",
+                    "Name": "Ференц",
+                    "SecondName": "Матвеевич"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "20.07.2022",
+                    "IDNDTrust": "39401524",
+                    "IdentDov": "39401524"
+                }
+            }
+        }
+    }
+}

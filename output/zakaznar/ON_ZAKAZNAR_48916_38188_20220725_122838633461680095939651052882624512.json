@@ -1,0 +1,179 @@
+{
+    "File": {
+        "IdFile": "ON_ZAKAZNAR_48916_38188_20220725_122838633461680095939651052882624512",
+        "VersProg": "1.0",
+        "VersForm": "5.01",
+        "Document": {
+            "KND": "1110350",
+            "DatInfChart": "25.07.2022",
+            "TInfChart": "22.36.49",
+            "ContOrdChart": {
+                "Uid": "Без номера",
+                "NumberOfZN": "Без номера",
+                "DateOrd": "25.07.2022",
+                "DetTimePay": "638",
+                "DetChart": {
+                    "ChartFL": {
+                        "INNI": "626995427368",
+                        "NSS": {
+                            "Surname": "Ромахов",
+                            "Name": "Прокул",
+                            "SecondName": "Васильевич"
+                        },
+                        "Cont": {
+                            "Nmbr": [
+                                "8931168023",
+                                "8909766738",
+                                "8917647936"
+                            ],
+                            "Email": [
+                                "8931168023@gmail.com",
+                                "8909766738@yandex.ru",
+                                "8917647936@mail.ru"
+                            ],
+                            "ForgnCont": "отсутсвуют"
+                        }
+                    }
+                },
+                "DetCondFrah": {
+                    "WayDone": "Порядок осуществления погрузо-разгрузочных работ",
+                    "AmouNonPresVeh": "1500",
+                    "AmouNonPresOtk": "1170"
+                },
+                "DetCarg": {
+                    "DescrCarg": {
+                        "NameCarg": "Geely, Emgrand 7",
+                        "CodeCargNew": "1041",
+                        "CargoCond": "Удовлетворительное",
+                        "WayPack": "Полиэтилен",
+                        "ContType": "00",
+                        "Density": "1108",
+                        "PossDistr": "0",
+                        "Volume": "1",
+                        "NumSeats": "1",
+                        "Marking": "Отсутствует",
+                        "Dimens": {
+                            "Altitude": "1",
+                            "Length": "1",
+                            "WidMean": "1"
+                        },
+                        "DetOPCarg": {
+                            "IDNDOON": "UN 4239",
+                            "PropShipName": "Взрывоопасная машина",
+                            "TechName": "ЙОД2",
+                            "Description": "ЙОД2",
+                            "Class": "8",
+                            "ClassCode": "CT2",
+                            "PackGroup": "3",
+                            "DangSign": "8",
+                            "CodeLimTonnel": "3",
+                            "NameRadionuc": "Название радионуклида2",
+                            "DescrFizChemForm": "химическое описание2",
+                            "MaxActiv": "0,002",
+                            "PackCat": "Категория упаковки2",
+                            "TransIndex": "10",
+                            "IndexWout": "Index безопасности 2",
+                            "FixSign": "Опознавательный знак 2",
+                            "FullActCarg": "-",
+                            "TotalMassNoExplosiveCont": "20",
+                            "TotalMassNoExplosiveAll": "20",
+                            "PrecMix": "20%",
+                            "DatExpRet": "10.01.2022",
+                            "ContTemper": "15",
+                            "EmTemp": "30"
+                        },
+                        "DetContain": {
+                            "NumberCont": "1",
+                            "IdCont": "284008816527531208333585"
+                        },
+                        "MassCarg": {
+                            "MassNoVal": "1108",
+                            "MassBrutVal": "1153",
+                            "NumPall": "2"
+                        },
+                        "PriceCarg": {
+                            "PriceOfCarg": "000000000000000000000000000009624549",
+                            "CodeOKV": "152",
+                            "NameOKV": "Чилийское песо"
+                        }
+                    },
+                    "TotalPriceGr": {
+                        "PriceOfCarg": "8517300",
+                        "CodeOKV": "152",
+                        "NameOKV": "Чилийское песо"
+                    }
+                },
+                "AccompDocs": {
+                    "DocOrd": {
+                        "NameDoc": "Свидетельство 1",
+                        "NumberOfDoc": "765042271664853880",
+                        "DateDok": "21.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "5270034845"
+                        }
+                    },
+                    "DocCar": {
+                        "NameDoc": "Свидетельство 2",
+                        "NumberOfDoc": "252607677400001013",
+                        "DateDok": "23.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "9693425543"
+                        }
+                    },
+                    "DetAccStat": {
+                        "NameDoc": "Свидетельство 3",
+                        "NumberOfDoc": "77578615855873",
+                        "DateDok": "21.07.2022",
+                        "IdDetlsDoc": {
+                            "INNL": "3722868529"
+                        }
+                    }
+                },
+                "DetOrdChart": {
+                    "InstrNormTrans": "Указаний нет",
+                    "ParamsTransp": {
+                        "Type": "Грузовик",
+                        "Mark": "BAIC, A1",
+                        "LoadCap": "2243",
+                        "Capacity": "69"
+                    }
+                },
+                "DetWayVeh": {
+                    "DatTDelVeh": "08.08.2022T22:36:49+05:00",
+                    "AplExTTypeElemTC": "0",
+                    "WayTransf": {
+                        "WayTxt": "Спасск-Рязанский, Рязанская область - Ливны, Орловская область"
+                    },
+                    "AdrPlcDelVeh": {
+                        "Coord": {
+                            "Width": "54.40000000000000",
+                            "Longitude": "40.38333000000000"
+                        },
+                        "AdrRF": {
+                            "Index": "345369",
+                            "CodeDistr": "36",
+                            "Area": "Ленинский",
+                            "City": "Спасск-Рязанский",
+                            "Street": "Ленина",
+                            "Home": "24",
+                            "Building": "48"
+                        }
+                    }
+                }
+            },
+            "Signater": {
+                "StatSignater": "1",
+                "NSS": {
+                    "Surname": "Осьминкин",
+                    "Name": "Септимий",
+                    "SecondName": "Максимович"
+                },
+                "DetTrust": {
+                    "DatePwrAtrn": "21.07.2022",
+                    "IDNDTrust": "94180853",
+                    "IdentDov": "94180853"
+                }
+            }
+        }
+    }
+}
